@@ -1,6 +1,6 @@
 note
 	description: "Summary description for {ENNEMIS}."
-	author: ""
+	auteur: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
